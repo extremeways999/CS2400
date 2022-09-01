@@ -17,6 +17,6 @@ public class InClass{
         nummonth = scnr.nextInt();
         totalcost = downpayment + (paymentpermonth*nummonth);
         System.out.println("Total cost: " + totalcost); 
-        
+        System.out.println("edwin was here");
     }
 } 
